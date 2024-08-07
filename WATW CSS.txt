@@ -1,0 +1,16 @@
+@import url('https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css');
+
+.hero {
+    background-image: url('hero.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.bg-pastel {
+    background-color: #f9f9f9;
+}
+
+.timeline {
+    /* Add styles for the campaign timeline here */
+}
